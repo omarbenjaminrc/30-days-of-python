@@ -1,8 +1,8 @@
 import mi_modulo
 import  math, datetime, os,sys, random, statistics, collections, json,re
 
-nombre = mi_modulo.generar_nombre_completo('Omar','Ramirez')
-print(nombre)
+# nombre = mi_modulo.generar_nombre_completo('Omar','Ramirez')
+# print(nombre)
 
 # os
 
@@ -11,3 +11,8 @@ print(nombre)
 # direccion = os.getcwd()
 # print(direccion)
 # os.rmdir('carpeta_001')
+
+# sys
+# print(sys.maxsize)
+
+
