@@ -33,6 +33,7 @@ print(len(nombre))
 # 3
 print('first name: ', len(nombre), 'last name: ', len(apellido))
 # 4
+
 num_one = 5
 num_two = 4
 
